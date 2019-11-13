@@ -1,1 +1,1 @@
-# amazingtranslator-tanz
+# The Amazing translator software is really amazing
